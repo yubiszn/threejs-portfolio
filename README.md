@@ -97,7 +97,7 @@ cd threejscc-portfolio
 
 **Installation**
 
-Install the project dependencies using npm:
+Install the project dependencies using n:
 
 ```bash
 npm install
@@ -862,7 +862,7 @@ Here is the list of all the resources used in the project video:
 - [Computer](https://sketchfab.com/3d-models/3d-computer-sketchfab-weekly-11-mar23-d9931a9aba7c4ea1bc12b2a59dcef16e)
 - [Target Model](https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/target-stand/model.gltf)
 - [React Logo](https://sketchfab.com/3d-models/react-logo-76174ceeba96487f9863f974636f641e)
-- [gltfjsx](https://gltf.pmnd.rs/)
+- [gltfjsx](https://gltf.pmnd.rs/) ONLY GLB FILES WORK HERE !!!! 
 - [ReadyPlayerMe](https://readyplayer.me/)
 - [Mixamo](https://www.mixamo.com/)
 - [FBX Animations ZIP](https://drive.google.com/file/d/1yQhrRvEQFEwxbjG2qelv_T-gAatXJ3N1/view?usp=sharing)
